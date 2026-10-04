@@ -169,7 +169,7 @@ The final takeaway is that arrival delays can be partially explained by pre-depa
 
 In other words, some of the variation in flight delays is systematic and predictable rather than purely random.
 
-## Recommended next steps
+## Future work
 
 Possible follow-up analyses include:
 
